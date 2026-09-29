@@ -1,474 +1,156 @@
-<div align="center">
-
 # 👋 Hi, I'm Akshat Kumbhani
 
-### 💻 Full Stack Development • Software Engineering • Cybersecurity • Ethical Hacking
+### Full Stack Developer • Software Engineering • Cybersecurity
 
-**Learn • Build • Secure • Grow 🚀**
+> **Learn • Build • Secure • Grow 🚀**
 
-Building real-world projects, documenting the learning journey, and developing practical skills across software development and cybersecurity.
+I'm a developer building practical skills across **software development, engineering, Linux, networking, and cybersecurity**.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Student%20Developer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Studentdeveloperin)
-[![GitHub](https://img.shields.io/badge/GitHub-studentdeveloperin--cell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/studentdeveloperin-cell)
-
-</div>
+I believe in learning by building: understanding the fundamentals, writing real code, testing it, breaking it, fixing it, and documenting what I learn.
 
 ---
 
-## 🚀 About Student Developer
+## 🧑‍💻 About Me
 
-**Student Developer** is a long-term learning and building journey covering:
-
-- 🌐 Full Stack Development
-- ⚙️ Software Engineering
-- 🔐 Cybersecurity
-- ⚔️ Ethical Hacking & Penetration Testing
-- 🐧 Linux & Kali Linux
-- 🌐 Networking
-- 🧠 Programming & DSA
-- 🚀 DevOps, Cloud & Secure Development
-
-The goal is to build strong fundamentals first, then progress toward practical, professional-level skills.
-
-> **No important foundational topic is intentionally skipped.**
+- 🌐 Focused on **Full Stack Development**
+- 🧠 Developing strong **Software Engineering & DSA** fundamentals
+- 🐧 Working with **Linux & Kali Linux**
+- 🌐 Learning **Networking & system fundamentals**
+- 🔐 Exploring **Cybersecurity & ethical security testing**
+- 🛠️ Building **real-world projects and developer tools**
+- 📚 Documenting my learning journey through GitHub and YouTube
+- 🎯 Long-term focus: **Build secure, scalable and maintainable software**
 
 ---
 
-# 🗺️ Complete Learning Roadmap
+## 🛠️ Technology Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
+
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+> Technologies listed here represent my learning and project focus; proficiency grows through practical work.
+
+---
+
+## 🧭 My Development Roadmap
 
 ```text
 Computer Fundamentals
         ↓
-Linux & Kali Linux
+Linux & Operating Systems
         ↓
 Networking Fundamentals
         ↓
 Git & GitHub
         ↓
-Programming
+Python + JavaScript
         ↓
-┌───────────────────────┬────────────────────────┐
-│                       │                        │
-▼                       ▼                        ▼
-Full Stack         Software Engineering    Cybersecurity
-Development              │                        │
-│                        │                        ▼
-│                        │                 Ethical Hacking
-│                        │                        │
-│                        │                        ▼
-│                        │                 Pentesting
-│                        │                        │
-└──────────────┬─────────┴────────────────────────┘
-               ↓
-        Real-World Projects
-               ↓
-      Professional Skills
-               ↓
-     Interview Preparation
+Data Structures & Algorithms
+        ↓
+HTML + CSS
+        ↓
+Advanced JavaScript
+        ↓
+React + Next.js
+        ↓
+Node.js + Express
+        ↓
+REST APIs + Authentication
+        ↓
+SQL + NoSQL + Redis
+        ↓
+Full Stack Applications
+        ↓
+Testing + Debugging
+        ↓
+Docker + CI/CD + Cloud
+        ↓
+Software Engineering + System Design
+        ↓
+Cybersecurity
+        ↓
+Web & API Security
+        ↓
+Ethical Hacking & Authorized Pentesting
+        ↓
+Security Automation + DevSecOps
+        ↓
+Real-World Projects
 ```
 
 ---
 
-# 🌐 Full Stack Development
+## 🚀 What I Build
 
-### Frontend
-
-- HTML
-- Semantic HTML
-- Forms
-- Accessibility
-- CSS
-- Box Model
-- Flexbox
-- CSS Grid
-- Responsive Design
-- Animations
-- CSS architecture
-- JavaScript fundamentals
-- DOM
-- Events
-- Browser APIs
-- Async JavaScript
-- Promises
-- Fetch
-- Modules
-- Error handling
-- React
-- Components
-- Props
-- State
-- Hooks
-- Context
-- Routing
-- Forms
-- API integration
-- State management
-- Performance optimization
-- Next.js
-- SSR
-- SSG
-- Server Components
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- HTTP
+### 🌐 Full Stack Development
+- Responsive web applications
+- React / Next.js applications
+- Node.js backend services
 - REST APIs
-- Routing
-- Middleware
-- Validation
-- Authentication
-- Authorization
-- Sessions
-- JWT
-- OAuth
-- Cookies
-- File uploads
-- Email systems
-- Error handling
-- Logging
-- API documentation
-- WebSockets
+- Authentication & authorization
+- Database-driven applications
 - Real-time applications
-- Background jobs
-- Queues
-- Caching
-- Rate limiting
+- SaaS-style applications
 
-### Databases
-
-- SQL
-- PostgreSQL
-- MySQL
-- MongoDB
-- Database design
-- ER modeling
-- Relationships
-- Joins
-- Indexes
-- Transactions
-- Constraints
-- Normalization
-- Query optimization
-- NoSQL concepts
-- Redis
-- Caching
-
-### Production & Deployment
-
-- Testing
-- Unit testing
-- Integration testing
-- End-to-end testing
-- Debugging
-- Git/GitHub
-- CI/CD
-- Docker
-- AWS
-- Deployment
-- Environment variables
-- Secrets management
-- Monitoring
-- Logging
-- Performance
-- Scalability
-- System Design
-- Microservices fundamentals
-- Message queues
-
----
-
-# ⚙️ Software Engineering
-
-- Software Development Life Cycle
-- Requirements
-- Problem solving
-- Clean Code
-- SOLID principles
-- Object-Oriented Programming
-- Design Patterns
-- Architecture
-- Modular design
+### ⚙️ Software Engineering
+- Clean and maintainable code
+- Modular architecture
 - API design
-- Version control
-- Code review
 - Testing
 - Debugging
-- Logging
+- Git workflows
 - Documentation
-- CI/CD
-- System Design
-- Scalability
-- Performance
-- Reliability
-- Maintainability
-- Software security
-- Professional development workflow
+- Performance and scalability fundamentals
+- System design
 
----
-
-# 🔐 Cybersecurity
-
-### Security Fundamentals
-
-- CIA Triad
-- Threats
-- Vulnerabilities
-- Risk
-- Attack surface
-- Security controls
-- Authentication
-- Authorization
-- Cryptography
-- Encryption
-- Hashing
-- Digital signatures
-- PKI
-- Secure development
-
-### Security Operations
-
-- Vulnerability management
-- Security monitoring
-- Logging
-- Incident response
-- Threat detection
-- Security analysis
-- Risk management
-- Security architecture
-- Security documentation
-
-### Web & API Security
-
-- OWASP Top 10
-- Authentication security
-- Authorization security
-- Session security
-- Access control
+### 🔐 Cybersecurity
+- Linux and system security
+- Networking and traffic analysis
+- Web application security
 - API security
-- Input validation
-- Secure file handling
-- Security headers
-- Secure configuration
-
-### Cloud & DevSecOps
-
-- Cloud security fundamentals
-- AWS security fundamentals
-- Container security
-- Docker security
-- Secrets management
-- Secure CI/CD
-- DevSecOps
-- Security automation
-
----
-
-# ⚔️ Ethical Hacking & Penetration Testing
-
-### Reconnaissance
-
-- Recon fundamentals
-- OSINT
-- Information gathering
-- Attack surface discovery
-
-### Scanning & Enumeration
-
-- Port scanning
-- Service identification
-- Version identification
-- Enumeration
+- Authentication and access control
 - Vulnerability assessment
-
-### Web Application Security
-
-- SQL Injection
-- XSS
-- CSRF
-- SSRF
-- Command Injection
-- File Inclusion
-- Path Traversal
-- File Upload vulnerabilities
-- XXE
-- SSTI
-- Deserialization
-- IDOR / access-control vulnerabilities
-- Authentication vulnerabilities
-- Authorization vulnerabilities
-- Session security
-- JWT security
-- API security
-- Business logic vulnerabilities
-
-### Network & System Security
-
-- Network security testing
-- Service enumeration
-- Linux privilege escalation
-- Windows privilege escalation
-- Active Directory fundamentals
-- Password security concepts
-- Exploitation fundamentals
-- Post-exploitation concepts
-
-### Advanced Security Areas
-
-- CTF methodology
-- Red Team fundamentals
-- Blue Team fundamentals
+- Secure coding
 - Security automation
-- Wireless security fundamentals
-- Mobile security fundamentals
-- IoT security fundamentals
-- Reverse engineering fundamentals
-- Malware analysis fundamentals
-- Digital forensics fundamentals
-- Incident response
-- Security reporting
-- Remediation
+- CTF and authorized security labs
 
-> ⚠️ All security testing is performed only on systems I own, authorized labs, CTF platforms, or systems where I have explicit permission.
-
----
-
-# 🐧 Linux & Kali Linux
-
-- Linux fundamentals
-- Filesystem
-- Terminal
-- Bash
-- Files & directories
-- Permissions
-- Users & groups
-- Processes
-- Services
-- Package management
-- Environment variables
-- Networking
-- SSH
-- Logs
-- System administration
-- Bash scripting
-- Kali Linux
-- Security tools
-- Troubleshooting
+### ☁️ DevOps / Cloud
+- Docker
+- CI/CD
+- AWS fundamentals
+- Deployment
+- Environment configuration
+- Logging and monitoring
+- DevSecOps fundamentals
 
 ---
 
-# 🌐 Networking
-
-- OSI Model
-- TCP/IP
-- Ethernet
-- MAC
-- IPv4
-- IPv6
-- Subnetting
-- CIDR
-- ARP
-- DNS
-- DHCP
-- HTTP/HTTPS
-- TCP/UDP
-- Ports
-- Routing
-- NAT
-- VPN
-- Firewalls
-- Proxies
-- Wi-Fi fundamentals
-- Packet analysis
-- Network troubleshooting
-
----
-
-# 🧠 Programming & DSA
-
-### Python
-
-- Syntax
-- Variables
-- Data types
-- Conditions
-- Loops
-- Functions
-- Modules
-- Packages
-- OOP
-- Exceptions
-- Files
-- JSON
-- APIs
-- Automation
-- Advanced Python
-
-### JavaScript
-
-- Variables
-- Data types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Arrays
-- Objects
-- DOM
-- Events
-- ES6+
-- Async JavaScript
-- Promises
-- Fetch
-- Modules
-- Error handling
-- Advanced JavaScript
-
-### Data Structures & Algorithms
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Hash Tables
-- Trees
-- Graphs
-- Recursion
-- Searching
-- Sorting
-- Big-O
-- Problem solving
-- Algorithmic thinking
-
----
-
-# 🛠️ Git & GitHub
-
-- Git fundamentals
-- Repositories
-- Commits
-- Branches
-- Merge
-- Rebase
-- Remote repositories
-- Push / Pull
-- Pull Requests
-- Issues
-- GitHub workflow
-- GitHub Actions
-- Documentation
-- README files
-- Collaboration
-- Professional repositories
-
----
-
-# 🧪 Learning Method
-
-Every major lesson follows:
+## 🧪 How I Learn
 
 ```text
 LEARN
@@ -477,7 +159,7 @@ UNDERSTAND
   ↓
 CODE
   ↓
-PRACTICE
+LAB
   ↓
 BREAK / FIX
   ↓
@@ -485,105 +167,97 @@ BUILD
   ↓
 TEST
   ↓
-IMPROVE
+DOCUMENT
 ```
 
-The goal is not just to watch lessons.
-
-**Understand → Practice → Build → Repeat.**
+My goal is to understand not only **how** something works, but also **why it works, how it can fail, and how it can be improved**.
 
 ---
 
-# 🎥 Student Developer YouTube
+## 📂 Featured Work
 
-The YouTube learning series follows:
+My repositories are organized around:
+
+- 🧱 Fundamentals & Learning Labs
+- 🐧 Linux / Kali Linux
+- 🌐 Networking
+- 💻 JavaScript & Python
+- 🧠 DSA
+- ⚛️ React / Next.js
+- 🟢 Node.js / Backend
+- 🌐 Full Stack Applications
+- 🔐 Cybersecurity Labs
+- 🛡️ Security Tools
+- 🐳 Docker / DevOps
+- ☁️ Cloud Projects
+
+As projects mature, the strongest ones will be pinned here as portfolio pieces.
+
+---
+
+## 📺 Student Developer
+
+I'm building **Student Developer** as a long-term technical learning and project platform.
+
+### Learn • Build • Secure • Grow
+
+Content and projects cover:
+
+**Full Stack Development • Software Engineering • Linux • Networking • Cybersecurity • Ethical Hacking • Practical Labs • Real Projects • Interview Preparation**
+
+🎥 **YouTube:** [@Studentdeveloperin](https://www.youtube.com/@Studentdeveloperin)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=studentdeveloperin-cell&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=studentdeveloperin-cell&layout=compact&hide_border=true)
+
+---
+
+## 🔐 Security & Responsible Use
+
+All security research and testing in my learning journey is intended for:
+
+- Systems I own
+- Authorized environments
+- CTFs
+- Security labs
+- Explicitly permitted assessments
+
+I aim to use cybersecurity knowledge responsibly and follow applicable laws, policies, and responsible disclosure practices.
+
+---
+
+## 🎯 Long-Term Goal
 
 ```text
-PPT / CONCEPT TEACHING
-        ↓
-VISUAL EXPLANATION
-        ↓
-LIVE PRACTICAL
-        ↓
-PRACTICE CHALLENGE
-        ↓
-RECAP
-        ↓
-DRIVE RESOURCES
+                 SOFTWARE
+                    +
+                SECURITY
+                    +
+                ENGINEERING
+                    ↓
+          BUILD BETTER SYSTEMS
+                    ↓
+          BUILD SECURE SYSTEMS
+                    ↓
+        CONTINUOUSLY KEEP LEARNING
 ```
 
-Practical labs, exercises, lesson questions, assignments, and supporting material are kept separately from the main lesson videos.
-
-Interview preparation is maintained separately so the main lessons stay focused on learning.
-
-🎥 **YouTube:** [Student Developer](https://www.youtube.com/@Studentdeveloperin)
+I'm working toward becoming a strong **Full Stack Developer / Software Engineer with cybersecurity expertise**, capable of building, deploying, analyzing, and securing modern applications.
 
 ---
 
-# 🚀 Projects
+## 🤝 Connect With Me
 
-Projects will progress from beginner to professional:
-
-```text
-Mini Projects
-      ↓
-Frontend Projects
-      ↓
-JavaScript Projects
-      ↓
-Backend Projects
-      ↓
-Full Stack Projects
-      ↓
-Software Engineering Projects
-      ↓
-Cybersecurity Projects
-      ↓
-Integrated Development + Security Projects
-```
-
-Each major project will aim to include proper documentation, source code, testing, and practical learning outcomes.
+- 💻 GitHub: [studentdeveloperin-cell](https://github.com/studentdeveloperin-cell)
+- 🎥 YouTube: [Student Developer](https://www.youtube.com/@Studentdeveloperin)
 
 ---
 
-# 📈 Current Focus
+### ⚡ Learn. Build. Secure. Grow.
 
-```text
-🐧 Linux / Kali Linux
-🔧 Git & GitHub
-🌐 Networking
-🐍 Python
-🟨 JavaScript
-🌐 Full Stack Development
-⚙️ Software Engineering
-🔐 Cybersecurity
-⚔️ Ethical Hacking
-🧪 Practical Projects
-```
-
----
-
-# 🌱 Long-Term Goal
-
-Build professional-level practical capability across:
-
-**Full Stack Development + Software Engineering + Cybersecurity + Ethical Hacking**
-
-while continuously building projects, documenting the learning journey, and improving through practice.
-
----
-
-<div align="center">
-
-## 💙 Learn • Build • Secure • Grow
-
-### Thanks for visiting my profile!
-
-⭐ Explore the repositories • Follow the journey • Keep building
-
-</div>
-"""
-
-path = "/mnt/data/Student_Developer_GitHub_Profile_README.md"
-Path(path).write_text(readme, encoding="utf-8")
-print(path)
+*Building skills today for the technology of tomorrow.*
